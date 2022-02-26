@@ -1,0 +1,4 @@
+the pull command used to take the copy of all fire from the master of remote repository
+ot local 
+
+git pull origin master
